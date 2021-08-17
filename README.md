@@ -1,7 +1,8 @@
 
 ## 안녕하세요 ✨이아란✨입니다! 👋👋👋
 
-![header](https://capsule-render.vercel.app/api?type=waving&height=250&color=auto&section=header&text=Aran%20Lee&fontSize=70)
+<!-- ![header](https://capsule-render.vercel.app/api?type=waving&height=250&color=auto&section=header&text=Aran%20Lee&fontSize=70) -->
+
 
 
 ### 💡 Tech Stack </br>
